@@ -835,6 +835,13 @@
           "twoPrice": false
         },
         {
+          "en": "Nutella",
+          "ar": "نوتيلا",
+          "price": "10",
+          "featured": false,
+          "twoPrice": false
+        },
+        {
           "en": "Pistachio",
           "ar": "فستق",
           "price": "10",
