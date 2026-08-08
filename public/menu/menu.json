@@ -1241,6 +1241,13 @@
           "twoPrice": false
         },
         {
+          "en": "Oats",
+          "ar": "شوفان",
+          "price": "13",
+          "featured": false,
+          "twoPrice": false
+        },
+        {
           "en": "Chocolate Cookie Box",
           "ar": "علبة كوكيز شوكلاتة",
           "price": "20",
@@ -1253,13 +1260,6 @@
           "en": "Pistachio Cookie Box",
           "ar": "علبة كوكيز بستاشيو",
           "price": "20",
-          "featured": false,
-          "twoPrice": false
-        },
-        {
-          "en": "Oats",
-          "ar": "شوفان",
-          "price": "13",
           "featured": false,
           "twoPrice": false
         }
