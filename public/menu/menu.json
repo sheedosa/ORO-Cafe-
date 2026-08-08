@@ -1255,6 +1255,13 @@
           "price": "20",
           "featured": false,
           "twoPrice": false
+        },
+        {
+          "en": "Oats",
+          "ar": "شوفان",
+          "price": "13",
+          "featured": false,
+          "twoPrice": false
         }
       ],
       "media": {
