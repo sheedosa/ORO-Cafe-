@@ -439,6 +439,13 @@
           "twoPrice": false
         },
         {
+          "en": "Lemon",
+          "ar": "ليمون",
+          "price": "15",
+          "featured": false,
+          "twoPrice": false
+        },
+        {
           "en": "Blue Orange",
           "ar": "بلو أورنج",
           "price": "20",
@@ -446,34 +453,39 @@
           "twoPrice": false
         },
         {
-          "en": "7Up",
-          "ar": "سفن أب",
-          "price": "15",
+          "en": "Mango Rose - Mango Boba",
+          "ar": "مانجو روز - بوبا مانجو",
+          "price": "20",
           "featured": false,
           "twoPrice": false
         },
         {
-          "en": "Max Flam",
-          "ar": "ماكس فلام",
-          "price": "18",
+          "en": "Blue Lavender - Blueberry Boba",
+          "ar": "بلو لافندر - بوبا بلوبيري",
+          "price": "20",
           "featured": false,
           "twoPrice": false
         },
         {
-          "en": "Red Bull",
-          "ar": "ريد بول",
-          "price": "22",
+          "en": "Pomegranate Passion - Cherry Boba",
+          "ar": "رمان باشن - بوبا كرز",
+          "price": "20",
           "featured": false,
           "twoPrice": false
         },
         {
-          "en": "Bubble",
-          "ar": "بابل",
-          "price": "+5",
+          "en": "Blue Passion Fruit - Passion Boba",
+          "ar": "بلو باشن فروت - بوبا باشن",
+          "price": "20",
           "featured": false,
-          "twoPrice": false,
-          "subcatAr": "إضافة",
-          "subcatEn": "Add‑on"
+          "twoPrice": false
+        },
+        {
+          "en": "Forest Fruit - Strawberry Boba",
+          "ar": "غلال الغابة - بوبا فراولة",
+          "price": "20",
+          "featured": false,
+          "twoPrice": false
         }
       ],
       "media": {
