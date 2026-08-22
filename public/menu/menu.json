@@ -215,15 +215,8 @@
           "twoPrice": false
         },
         {
-          "en": "Iced Mocha Pistachio",
-          "ar": "آيس موكا بستاشيو",
-          "price": "20",
-          "featured": false,
-          "twoPrice": false
-        },
-        {
-          "en": "Iced Mocha Strawberry",
-          "ar": "آيس موكا فراولة",
+          "en": "Iced Spanish Latte",
+          "ar": "آيس سبانيش لاتيه",
           "price": "20",
           "featured": false,
           "twoPrice": false
@@ -243,13 +236,6 @@
           "twoPrice": false
         },
         {
-          "en": "Iced Spanish Latte",
-          "ar": "آيس سبانيش لاتيه",
-          "price": "20",
-          "featured": false,
-          "twoPrice": false
-        },
-        {
           "en": "Iced Caramel Macchiato",
           "ar": "آيس كراميل ماكياتو",
           "price": "20",
@@ -259,6 +245,20 @@
         {
           "en": "Iced Mocha Macchiato",
           "ar": "آيس موكا ماكياتو",
+          "price": "20",
+          "featured": false,
+          "twoPrice": false
+        },
+        {
+          "en": "Iced Mocha Pistachio",
+          "ar": "آيس موكا بستاشيو",
+          "price": "20",
+          "featured": false,
+          "twoPrice": false
+        },
+        {
+          "en": "Iced Mocha Strawberry",
+          "ar": "آيس موكا فراولة",
           "price": "20",
           "featured": false,
           "twoPrice": false
@@ -523,13 +523,6 @@
           "twoPrice": false
         },
         {
-          "en": "Mix",
-          "ar": "مكس",
-          "price": "18",
-          "featured": false,
-          "twoPrice": false
-        },
-        {
           "en": "Orange",
           "ar": "برتقال",
           "price": "18",
@@ -544,8 +537,8 @@
           "twoPrice": false
         },
         {
-          "en": "Berry",
-          "ar": "توت",
+          "en": "Raspberry",
+          "ar": "توت أحمر",
           "price": "18",
           "featured": false,
           "twoPrice": false
@@ -574,6 +567,13 @@
         {
           "en": "Green Apple",
           "ar": "تفاح أخضر",
+          "price": "18",
+          "featured": false,
+          "twoPrice": false
+        },
+        {
+          "en": "Mix",
+          "ar": "مكس",
           "price": "18",
           "featured": false,
           "twoPrice": false
