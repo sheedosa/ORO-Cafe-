@@ -86,6 +86,13 @@
           "twoPrice": false
         },
         {
+          "en": "Curtado",
+          "ar": "كورتادو",
+          "price": "8",
+          "featured": false,
+          "twoPrice": false
+        },
+        {
           "en": "Sweetened",
           "ar": "محلى",
           "price": "+2",
