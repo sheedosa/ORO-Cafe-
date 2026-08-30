@@ -89,6 +89,8 @@
           "en": "Curtado",
           "ar": "كورتادو",
           "price": "8",
+          "noteEn": "Double +3",
+          "noteAr": "دبل +3",
           "featured": false,
           "twoPrice": false
         },
